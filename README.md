@@ -24,7 +24,7 @@ siliconate::silicon() ## Call silicon command. By default, the image just goes t
 
 Then you can paste and save the image like this.
 
-![exsample](https://raw.githack.com/paithiov909/siliconate/main/man/figures/siliconate_exsample.jpg)
+![example](https://raw.githack.com/paithiov909/siliconate/main/man/figures/siliconate_example.jpg)
 
 ## License
 
