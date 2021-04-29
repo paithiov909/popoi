@@ -1,0 +1,20 @@
+Package: siliconate
+Type: Package
+Title: Wrapper Function of Aloxaf/silicon
+Version: 0.0.1
+Authors@R: c(
+    person("Akiru", "Kato", email = "paithiov909@gmail.com", role = c("aut", "cre")))
+Maintainer: Kato Akiru <paithiov909@gmail.com>
+Description: Create image of your source code.
+SystemRequirements: silicon
+License: MIT + file LICENSE
+URL: https://github.com/paithiov909/siliconate
+BugReports: https://github.com/paithiov909/siliconate/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    dplyr,
+    processx,
+    purrr,
+    rlang
