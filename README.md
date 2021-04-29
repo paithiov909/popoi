@@ -26,6 +26,11 @@ Then you can paste and save the image like this.
 
 ![example](https://raw.githack.com/paithiov909/siliconate/main/man/figures/siliconate_example.jpg)
 
+## Related Products
+
+- [yonicd/carbonate: carbon.js for R](https://github.com/yonicd/carbonate)
+- [yonicd/carbonace: convert ace editor as high resolution images to share](https://github.com/yonicd/carbonace)
+
 ## License
 
 MIT license. 
