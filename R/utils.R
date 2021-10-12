@@ -21,7 +21,7 @@ ipsum <- function(size = 6L, alpha = hana) {
 #' @param .opts Install options.
 #'
 #' @export
-install.packages <- function(..., .opts = "--no-multiarch") {
+install_packages <- function(..., .opts = "--no-multiarch") {
   utils::install.packages(..., quiet = TRUE, INSTALL_opts = .opts)
 }
 
