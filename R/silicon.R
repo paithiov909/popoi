@@ -33,7 +33,7 @@ silicon <- function(input_file = NULL,
                     output_path = getwd(),
                     ...)
 {
-  if (!is_silicon_available()) rlang::abort("This package requires Aloxaf/silicon available.")
+  if (!is_silicon_available()) rlang::abort("This function requires Aloxaf/silicon available.")
   args <- c(
     ## Flags
     dplyr::if_else(is.null(input_file), "--from-clipboard", NA_character_),

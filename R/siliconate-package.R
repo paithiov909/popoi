@@ -1,4 +1,5 @@
-#' siliconate: Wrapper Function of Aloxaf/silicon
+#' siliconate: Miscellaneous Functions of Paithiov909
 #' @docType package
 #' @name siliconate
+#' @keywords internal
 "_PACKAGE"

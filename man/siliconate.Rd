@@ -4,9 +4,9 @@
 \name{siliconate}
 \alias{siliconate}
 \alias{siliconate-package}
-\title{siliconate: Wrapper Function of Aloxaf/silicon}
+\title{siliconate: Miscellaneous Functions of Paithiov909}
 \description{
-Create image of your source code.
+My own miscellaneous functions.
 }
 \seealso{
 Useful links:
@@ -20,3 +20,4 @@ Useful links:
 \strong{Maintainer}: Akiru Kato \email{paithiov909@gmail.com}
 
 }
+\keyword{internal}

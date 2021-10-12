@@ -11,6 +11,7 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+pkgload::load_all()
 ```
 
 # siliconate
@@ -18,13 +19,17 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-> Wrapper Function of Aloxaf/silicon
-
-## System Requirements
-
-- [Aloxaf/silicon: Create beautiful image of your source code.](https://github.com/Aloxaf/silicon)
-
 ## Usage
+
+### Lorem ipsum
+
+This is a mimic of nanoid.
+
+```{r}
+siliconate::nano(3L, hana)
+```
+
+### Execute silicon
 
 ```r
 reprex::reprex({
@@ -39,12 +44,7 @@ siliconate::silicon() ## Call silicon command. By default, the image just goes t
 
 Then you can paste and save the image like this.
 
-![example](https://raw.githack.com/paithiov909/siliconate/main/man/figures/siliconate_example.jpg)
-
-## Related Products
-
-- [yonicd/carbonate: carbon.js for R](https://github.com/yonicd/carbonate)
-- [yonicd/carbonace: convert ace editor as high resolution images to share](https://github.com/yonicd/carbonace)
+![example](https://rawcdn.githack.com/paithiov909/siliconate/26780202b0407694c380f3493b44215c1dee5247/man/figures/siliconate_example.jpg)
 
 ## License
 
