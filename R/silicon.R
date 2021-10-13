@@ -31,8 +31,7 @@ silicon <- function(input_file = NULL,
                     ),
                     language = "R",
                     output_path = getwd(),
-                    ...)
-{
+                    ...) {
   if (!is_silicon_available()) rlang::abort("This function requires Aloxaf/silicon available.")
   args <- c(
     ## Flags

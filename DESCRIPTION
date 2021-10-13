@@ -1,7 +1,7 @@
 Package: siliconate
 Type: Package
 Title: Miscellaneous Functions of Paithiov909
-Version: 0.0.1
+Version: 0.0.1.9000
 Authors@R: c(
     person("Akiru", "Kato", email = "paithiov909@gmail.com", role = c("aut", "cre")))
 Maintainer: Kato Akiru <paithiov909@gmail.com>

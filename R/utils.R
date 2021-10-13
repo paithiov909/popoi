@@ -55,8 +55,9 @@ switch_locale <- function(lang = c("en", "ja")) {
     Sys.setlocale(
       "LC_ALL",
       ifelse(lang == "en",
-             "english",
-             "japanese")
+        "english",
+        "japanese"
+      )
     )
     rlang::inform("Now the locale has been switched!!")
   }

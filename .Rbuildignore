@@ -1,4 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-pkgdown$
 ^data-raw$
+^docs$
+^pkgdown$
