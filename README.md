@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# siliconate
+# siliconate <a href='https://paithiov909.github.io/siliconate'><img src='man/figures/logo.png' align="right" height="139" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -14,7 +14,7 @@ This is a mimic of nanoid.
 
 ``` r
 siliconate::nano(3L, hana)
-#> [1] "勿論竜樹や馬鳴も、人並の鼻を備えた菩薩である。あの鼻では誰も妻になる女があるまいと思ったからである。従ってここへ出入する僧俗の類も甚だ多い。"
+#> [1] "内供は人を見ずに、ただ、鼻を見た。内供は、いつものように、鼻などは気にかけないと云う風をして、わざとその法もすぐにやって見ようとは云わずにいた。そこで内供は、積極的にも消極的にも、この自尊心の毀損を恢復しようと試みた。"
 ```
 
 ### Execute silicon
@@ -36,4 +36,5 @@ Then you can paste and save the image like this.
 
 ## License
 
-MIT license.
+MIT license. Icons made by [Freepik](https://www.freepik.com) from
+[www.flaticon.com](https://www.flaticon.com/).

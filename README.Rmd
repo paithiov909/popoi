@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 pkgload::load_all()
 ```
 
-# siliconate
+# siliconate <a href='https://paithiov909.github.io/siliconate'><img src='man/figures/logo.png' align="right" height="139" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -48,5 +48,5 @@ Then you can paste and save the image like this.
 
 ## License
 
-MIT license. 
+MIT license. Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/).
 
