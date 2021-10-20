@@ -12,7 +12,7 @@ hexSticker::sticker(
   s_height = .5,
   p_size = 20,
   package = "siliconate",
-  p_color = "#fd9dca",
+  p_color = "#fc6baf",
   h_size = 3,
   h_fill = "#84bcfc",
   h_color = "#84fcc4",
